@@ -1,4 +1,8 @@
 # VanGo-BackEnd: RESTful Transportation Solution API
+
+This repository contains only the source code for the Back-end of the VanGo project. To access the source code for the Front-end, please visit the corresponding repository:
+[VanGo-FrontEnd Repository](https://github.com/DevLucasEduardo/Go-van)
+
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 
 ## Table of Contents
@@ -72,12 +76,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 - **Anrry Petrin de Araujo**
   - Role: Project Manager & Developer
-  - Expertise: Backend
+  - Expertise: Back-end
   - Contact: [anrry.petrin@gmail.com](mailto:anrry.petrin@gmail.com)
 
 - **Lucas Eduardo Pereira**
   - Role: Full-stack Developer
-  - Expertise: Backend, Frontend
+  - Expertise: Back-end & Front-end
   - Contact: [lucaseduardodev@outlook.com](mailto:lucaseduardodev@outlook.com)
 
 - **Jéser Cáceres Marcelino**
