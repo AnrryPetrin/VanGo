@@ -1,4 +1,4 @@
-# VanGo-BackEnd
+# VanGo-BackEnd: RESTful Transportation Solution API
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 
 ## Table of Contents
