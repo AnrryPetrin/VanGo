@@ -46,7 +46,7 @@ Make sure you have the following prerequisites installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/seu-usuario/VanGo-BackEnd.git
+git clone https://github.com/AnrryPetrin/VanGo-BackEnd.git
 ```
 2. In MySQL Workbench, execute the following command to create the database:
 ```sql
