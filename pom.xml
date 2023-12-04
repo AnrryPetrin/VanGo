@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.facens</groupId>
-    <artifactId>VanGo</artifactId>
+    <artifactId>VanGo-BackEnd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>VanGo</name>
     <description>VanGo</description>
